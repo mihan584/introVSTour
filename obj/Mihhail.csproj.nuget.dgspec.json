@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\opilane\\source\\repos\\Mihhail\\Mihhail.csproj": {}
+    "C:\\Users\\opilane\\source\\repos\\ConsoleApp1\\introVSTour\\Mihhail.csproj": {}
   },
   "projects": {
-    "C:\\Users\\opilane\\source\\repos\\Mihhail\\Mihhail.csproj": {
+    "C:\\Users\\opilane\\source\\repos\\ConsoleApp1\\introVSTour\\Mihhail.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\Mihhail\\Mihhail.csproj",
+        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\ConsoleApp1\\introVSTour\\Mihhail.csproj",
         "projectName": "Mihhail",
-        "projectPath": "C:\\Users\\opilane\\source\\repos\\Mihhail\\Mihhail.csproj",
+        "projectPath": "C:\\Users\\opilane\\source\\repos\\ConsoleApp1\\introVSTour\\Mihhail.csproj",
         "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\opilane\\source\\repos\\Mihhail\\obj\\",
+        "outputPath": "C:\\Users\\opilane\\source\\repos\\ConsoleApp1\\introVSTour\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
