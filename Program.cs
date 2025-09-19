@@ -25,38 +25,85 @@ string sõnum = "Teie vanus on: ";
 //Console.WriteLine("Sõnum");
 */
 
-int arv1 = 0;
-int arv2 = 0;
-Console.WriteLine("Tere, palun sisesta esimene arv: ");
-arv1 = int.Parse(Console.ReadLine());
-Console.WriteLine("Tere, palun sisesta teine arv: ");
-arv2 = int.Parse(Console.ReadLine());
-int arv = arv1 + arv2;
+//using System.ComponentModel.Design;
 
-Console.WriteLine("Missugust tehet tahad teha? Kirjuta kas: + - / * ^");
-string tehtetüüp = Console.ReadLine();
-int tehe = 0;
+//int arv1 = 0;
+//int arv2 = 0;
+//Console.WriteLine("Tere, palun sisesta esimene arv: ");
+//arv1 = int.Parse(Console.ReadLine());
+//Console.WriteLine("Tere, palun sisesta teine arv: ");
+//arv2 = int.Parse(Console.ReadLine());
+//int arv = arv1 + arv2;
 
-if (tehtetüüp == "+"  /*tingimus siia*/)
+//Console.WriteLine("Missugust tehet tahad teha? Kirjuta kas: + - / * ^");
+//string tehtetüüp = Console.ReadLine();
+//int tehe = 0;
+
+//if (tehtetüüp == "+"  /*tingimus siia*/)
+//{
+//    tehe = arv1 + arv2;
+//}
+
+
+//if (tehtetüüp == "-"  /*tingimus siia*/)
+//{
+//    tehe = arv1 - arv2;
+//}
+//Console.WriteLine($"{tehtetüüp} Tehte tulemus: {tehe}");
+
+//if (tehtetüüp == "*"  /*tingimus siia*/)
+//{
+//    tehe = arv1 * arv2;
+//}
+
+
+//if (tehtetüüp == "^")
+//{
+//    tehe = (int)Math.Pow(arv1, arv2);
+//}
+//Console.WriteLine($"{tehtetüüp} Tehte tulemus: {tehe}");
+
+//using System.ComponentModel.Design;
+
+string lemmikpuuvili = "";
+string valik = "";
+string lemmikjuurvili;
+Console.WriteLine("kas sulle meeldivad puuviljad või juurviljad kirjuta juurviljad kui meeldivad juurviljad aga jäta tühjaks kuimeeldivad puuviljad");
+valik = Console.ReadLine();
+
+
+Console.WriteLine("Mis on sinu lemmik puuvili?");
+lemmikpuuvili = Console.ReadLine();
+
+if (valik == "puuviljad")
+
+if (lemmikpuuvili == "maasikas")
 {
-    tehe = arv1 + arv2;
+    Console.WriteLine("Maasikas ei ole puuvili");
+}
+else if (lemmikpuuvili == "kartul") 
+{
+    Console.WriteLine("See ei kasva isegi mette puu otsas");
+}
+else
+{
+    Console.WriteLine("Ei tunne seda puuvilja");
+}
+    else if (valik == "juurviljad") ;
+
+
+    Console.WriteLine("milline puuvili on sinu lemmik");
+
+
+Console.WriteLine("mis on sinu lemmik puuvili");
+    lemmikpuuvili = Console.ReadLine();
+
+if (lemmikpuuvili == "maasikas")
+{
+
+}
+else if (lemmikpuuvili == "pirn")
+{
+    Console.WriteLine("kas hapu pirn või magus pirn, mõlemad on head");
 }
 
-
-if (tehtetüüp == "-"  /*tingimus siia*/)
-{
-    tehe = arv1 - arv2;
-}
-Console.WriteLine($"{tehtetüüp} Tehte tulemus: {tehe}");
-
-if (tehtetüüp == "*"  /*tingimus siia*/)
-{
-    tehe = arv1 * arv2;
-}
-
-
-if (tehtetüüp == "^")
-{
-    tehe = (int)Math.Pow(arv1, arv2);
-}
-Console.WriteLine($"{tehtetüüp} Tehte tulemus: {tehe}");

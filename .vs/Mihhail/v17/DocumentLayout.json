@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\opilane\\source\\repos\\ConsoleApp1\\introVSTour\\",
+  "WorkspaceRootPath": "C:\\Users\\opilane\\source\\repos\\mm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF4D26F2-BEC0-4383-AE52-3102D3246AE5}|Mihhail.csproj|c:\\users\\opilane\\source\\repos\\consoleapp1\\introvstour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF4D26F2-BEC0-4383-AE52-3102D3246AE5}|Mihhail.csproj|c:\\users\\opilane\\source\\repos\\mm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF4D26F2-BEC0-4383-AE52-3102D3246AE5}|Mihhail.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\ConsoleApp1\\introVSTour\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\mm\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\ConsoleApp1\\introVSTour\\Program.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\mm\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAG0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-12T09:07:43.921Z",
               "EditorCaption": ""
